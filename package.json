@@ -1,0 +1,12 @@
+{
+  "name": "simulador-double-cassino",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Eurico",
+  "license": "ISC",
+  "description": "Esse projeto tem como desafio simular o famoso double dos cassinos."
+}
